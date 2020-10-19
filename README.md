@@ -14,5 +14,5 @@ PHP project using API calls and database.
 
 > Run the database script
 
-Author: Lucas Vinícius
+Author: Lucas Vinícius <br>
 [Digimon API](https://digimon-api.vercel.app/api/digimon "Digimon API")
