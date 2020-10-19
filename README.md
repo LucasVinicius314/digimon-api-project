@@ -6,9 +6,9 @@ PHP project using API calls and database.
 
 # Prequisites
 
-> PHP
-> Apache HTTP Server
-> MySQL
+> #### [`PHP`](https://www.php.net/downloads.php) <br>
+> #### [`Apache HTTP Server`](https://httpd.apache.org/) <br>
+> #### [`MySQL`](https://www.mysql.com/downloads/) <br>
 
 # Execution
 
